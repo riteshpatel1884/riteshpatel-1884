@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I’m Ritesh Patel</h1>
 
-###
+### 
 
 <p align="left">I enjoy working on web development, understanding how things work under the hood, and improving my problem-solving skills step by step.</p>
 
