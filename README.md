@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I’m Ritesh Patel</h1>
+<!-- <h1 align="center">Hi, I’m Ritesh Patel</h1>
 
 ### 
 
@@ -71,4 +71,177 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=riteshpatel1884&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> -->
+
+
+
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Syne&size=42&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=Hi%2C+I'm+Ritesh+Patel;Full+Stack+Developer;Web+%26+AI+Enthusiast" alt="Typing SVG" />
+</div>
+
+---
+
+## 🚀 About Me
+
+<div align="center">
+  <p>
+    <strong>🎯 Passionate developer</strong> crafting elegant solutions at the intersection of web development and machine learning. I thrive on understanding systems deeply, solving complex problems, and building products that matter.
+  </p>
+  
+  **Specializing in:** Full-stack web development • System design • Problem-solving • Open-source contributions
+</div>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+  <h3>Frontend Mastery</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" alt="tailwindcss" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs" />
+</div>
+
+<div align="center">
+  <h3>Backend & Database</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="express" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgres" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql" />
+</div>
+
+<div align="center">
+  <h3>AI & Data Science</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="tensorflow" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" alt="pytorch" />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="numpy" />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
+</div>
+
+<div align="center">
+  <h3>Tools & Platforms</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker" />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/Firebase-%23039BE5?style=flat-square&logo=firebase&logoColor=white" alt="firebase" />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/Netlify-%23000000?style=flat-square&logo=netlify&logoColor=#00C7B7" alt="netlify" />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/Vercel-%23000000?style=flat-square&logo=vercel&logoColor=white" alt="vercel" />
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=riteshpatel1884&theme=algolia&hide_border=true&include_all_commits=false&count_private=true&show_icons=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riteshpatel1884&theme=algolia&hide_border=true" alt="GitHub Streak" width="49%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riteshpatel1884&theme=algolia&hide_border=true&include_all_commits=false&count_private=true&layout=compact&langs_count=8" alt="Top Languages" width="49%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=riteshpatel1884&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=2" alt="GitHub Trophies" width="49%" />
+</div>
+
+---
+
+## 🎯 What I'm Currently
+
+- 🔍 **Exploring:** Advanced system design patterns and distributed architecture
+- 🏗️ **Building:** Full-stack applications with modern web technologies
+- 📚 **Learning:** ML operations and production ML systems
+- 💡 **Passionate about:** Clean code, scalable solutions, and developer experience
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+  <table style="border: none; background: transparent;">
+    <tr>
+      <td><strong>⭐ Your Top Repo 1</strong><br/>Description of your best work</td>
+      <td><strong>⭐ Your Top Repo 2</strong><br/>What makes it special</td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=riteshpatel1884&limit=5&theme=algolia&combine_all_yearly_contributions=true" alt="Top Contributions" />
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  <a href="https://linkedin.com/in/riteshpatel1884" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/riteshpatel1884" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://instagram.com/riteshpatel1884" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:riteshpatel1884@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/riteshpatel-1884/riteshpatel-1884/output/snake.svg" alt="Snake animation" width="100%"/>
+</div>
+
+---
+
+<div align="center">
+  <p><strong>Visitor Count</strong></p>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=riteshpatel1884.riteshpatel1884&label=Visitors&style=flat-square" alt="Visitor Badge"/>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riteshpatel-1884/riteshpatel-1884/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/riteshpatel-1884/riteshpatel-1884/output/pacman-contribution-graph.svg">
+    <img alt="Contribution Graph" src="https://raw.githubusercontent.com/riteshpatel-1884/riteshpatel-1884/output/pacman-contribution-graph.svg" width="100%"/>
+  </picture>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Syne&size=16&duration=3000&pause=1000&color=00D9FF&center=true&width=500&lines=Always+learning%2C+always+building...;Let's+create+something+amazing!" alt="Closing Message" />
+</div>
+
+<br/>
+
+---
+
+<!-- Continuously improving and evolving → -->
